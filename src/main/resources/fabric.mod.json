@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "yyzs_backpack_restrictions",
+  "version": "${version}",
+  "name": "yyzs backpack restrictions",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/yyzs_backpack_restrictions/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.laazuli.yyzs_backpack_restrictions.YyzsBackpackRestrictions"
+    ]
+  },
+  "mixins": [
+    "yyzs_backpack_restrictions.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "yyzsbackpack": "*"
+  }
+}

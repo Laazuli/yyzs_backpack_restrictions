@@ -1,0 +1,6 @@
+{
+  "package": "me.laazuli.yyzs_backpack_restrictions.mixin",
+  "mixins": [
+    "PreventBackpacksInContainerItemsMixin"
+  ]
+}
