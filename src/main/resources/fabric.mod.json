@@ -3,9 +3,12 @@
   "id": "yyzs_backpack_restrictions",
   "version": "${version}",
   "name": "yyzs backpack restrictions",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "description": "Tiny mod to prevent players from placing any yyz's backpack into a container item such as Shulker Boxes, Bundles or maybe even other backpacks from other mods etc.",
+  "authors": ["Laazuli"],
+  "contact": {
+    "sources": "https://github.com/Laazuli/yyzs_backpack_restrictions",
+    "issues": "https://github.com/Laazuli/yyzs_backpack_restrictions/issues"
+  },
   "license": "MIT",
   "icon": "assets/yyzs_backpack_restrictions/icon.png",
   "environment": "*",
